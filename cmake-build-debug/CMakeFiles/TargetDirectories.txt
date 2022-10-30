@@ -1,0 +1,3 @@
+/home/fash/Documents/CPP/CAI/cmake-build-debug/CMakeFiles/CAI.dir
+/home/fash/Documents/CPP/CAI/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fash/Documents/CPP/CAI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
